@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Bitindi Swap",
+    "link": "https://www.dex.bitindi.org/",
+    "description": "The original interface for Bitindi Chain Swap.",
+    "isFavorites": true,
+    "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
+  },
+  {
+    "title": "PancakeSwap",
+    "link": "https://pancakeswap.finance/swap?outputCurrency=0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
+    "description": "The #1 AMM and yield farm on Binance Smart Chain.",
+    "isFavorites": false,
+    "image": "https://dashboard-assets.dappradar.com/document/4600/pancakeswap-dapp-defi-bsc-logo-166x166_783df04863220a6371e78725e2fa3320.png"
+  },
+  {
+    "title": "Bitindi Dex",
+    "link": "https://dex.bitindi.com/swap/bnb/bnb-to-bni",
+    "description": "Dex Aggregator",
+    "isFavorites": true,
+    "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
+  },
+  {
+    "title": "Gem Pad",
+    "link": "https://secondlive.world/",
+    "description": "Bitindi chain launchpad.",
+    "isFavorites": true,
+    "image": "https://gempad.app/logo.svg"
+  }
+  
+]
