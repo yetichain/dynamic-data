@@ -1,7 +1,7 @@
 [
   {
     "title": "Bitindi Swap",
-    "link": "https://www.dex.bitindi.org/",
+    "link": "https://dex.bitindi.org/",
     "description": "The original interface for Bitindi Chain Swap.",
     "isFavorites": true,
     "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
