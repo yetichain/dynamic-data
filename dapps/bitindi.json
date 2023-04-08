@@ -1,28 +1,42 @@
 [
   {
-    "title": "Bitindi Swap",
+    "title": "Bitindi Native Swap",
     "link": "https://dex.bitindi.org/",
     "description": "The original interface for Bitindi Chain Swap.",
     "isFavorites": true,
     "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
   },
+   {
+    "title": "Bitindi Native Bridge",
+    "link": "https://bridge.bitindi.org/",
+    "description": "The original interface for Bitindi Chain Swap.",
+    "isFavorites": true,
+    "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
+  },
+     {
+    "title": "Bitindi Native DeFi",
+    "link": "https://defi.bitindi.org/",
+    "description": "The original interface for Bitindi Chain Swap.",
+    "isFavorites": true,
+    "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
+  },
   {
-    "title": "PancakeSwap",
+    "title": "PancakeSwap BNI (BEP20)",
     "link": "https://pancakeswap.finance/swap?outputCurrency=0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
     "description": "The #1 AMM and yield farm on Binance Smart Chain.",
     "isFavorites": false,
     "image": "https://dashboard-assets.dappradar.com/document/4600/pancakeswap-dapp-defi-bsc-logo-166x166_783df04863220a6371e78725e2fa3320.png"
   },
   {
-    "title": "Bitindi Dex",
+    "title": "Bitindi Dex BNI (BEP20)",
     "link": "https://dex.bitindi.com/swap/bnb/bnb-to-bni",
     "description": "Dex Aggregator",
     "isFavorites": true,
     "image": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
   },
   {
-    "title": "Gem Pad",
-    "link": "https://secondlive.world/",
+    "title": "Gempad BNI Native Staing",
+    "link": "https://gempad.app/stake/0x140c312c8841B0a7152946C0Bc2BD343bA51bbcc?chainId=4099",
     "description": "Bitindi chain launchpad.",
     "isFavorites": true,
     "image": "https://gempad.app/logo.svg"
