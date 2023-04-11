@@ -32,13 +32,13 @@
     "link": "https://www.algem.io/",
     "description": "Algem is a DeFi dApp built on Astar Network that allows you to stay liquid while staking your ASTR.",
     "isFavorites": false,
-    "image": "https://github.com/enkryptcom/dynamic-data/blob/main/assets/astar/algem.png?raw=true"
+    "image": "https://github.com/yetichain/dynamic-data/blob/main/assets/astar/algem.png?raw=true"
   },
   {
     "title": "Astar Exchange",
     "link": "https://astar.exchange",
     "description": "Fully decentralized protocol for automated liquidity provision on Astar, Governance Token distributed to LP by yield farming.",
     "isFavorites": false,
-    "image": "https://github.com/enkryptcom/dynamic-data/blob/main/assets/astar/astar-exchange.png?raw=true"
+    "image": "https://github.com/yetichain/dynamic-data/blob/main/assets/astar/astar-exchange.png?raw=true"
   }
 ]

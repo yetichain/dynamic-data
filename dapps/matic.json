@@ -4,7 +4,7 @@
     "link": "https://wallet.polygon.technology/polygon/bridge/deposit",
     "description": "Transfer assets to and from Polygon",
     "isFavorites": false,
-    "image": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/icons/matic.png"
+    "image": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/icons/matic.png"
   },
   {
     "title": "MEW",
