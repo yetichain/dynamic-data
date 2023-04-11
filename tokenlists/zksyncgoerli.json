@@ -1,6 +1,6 @@
 {
   "name": "Enkrypt",
-  "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/enkrypt/enkrypt-sign-color.png",
+  "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/enkrypt/enkrypt-sign-color.png",
   "keywords": ["defi"],
   "timestamp": "2023-02-09T20:08:52.979+00:00",
   "tokens": [
@@ -42,7 +42,7 @@
       "name": "Buidl Bux",
       "symbol": "BUIDL-old",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/zksync/zksync.svg"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/zksync/zksync.svg"
     },
     {
       "chainId": 280,
@@ -50,7 +50,7 @@
       "name": "Buidl Bux",
       "symbol": "BUIDL",
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/zksync/zksync.svg"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/zksync/zksync.svg"
     }
   ],
   "version": {

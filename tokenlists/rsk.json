@@ -1,6 +1,6 @@
 {
   "name": "Enkrypt",
-  "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/enkrypt/enkrypt-sign-color.png",
+  "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/enkrypt/enkrypt-sign-color.png",
   "keywords": ["defi"],
   "timestamp": "2023-02-07T20:08:52.979+00:00",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "RIF",
       "symbol": "RIF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rif.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rif.png"
     },
     {
       "chainId": 30,
@@ -18,7 +18,7 @@
       "name": "RIF Dollar on Chain",
       "symbol": "RDOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rdoc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rdoc.png"
     },
     {
       "chainId": 30,
@@ -26,7 +26,7 @@
       "name": "RIF Pro",
       "symbol": "RIFP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rifpro.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rifpro.png"
     },
     {
       "chainId": 30,
@@ -34,7 +34,7 @@
       "name": "Dollar on Chain",
       "symbol": "DOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/doc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/doc.png"
     },
     {
       "chainId": 30,
@@ -42,7 +42,7 @@
       "name": "BitPro",
       "symbol": "BPro",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/bpro.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/bpro.png"
     },
     {
       "chainId": 30,
@@ -50,7 +50,7 @@
       "name": "Invecoin",
       "symbol": "INV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/inv.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/inv.png"
     },
     {
       "chainId": 30,
@@ -58,7 +58,7 @@
       "name": "Dai Stablecoin on RSK",
       "symbol": "rDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/dai.png"
     },
     {
       "chainId": 30,
@@ -66,7 +66,7 @@
       "name": "Wrapped RBTC on RSK",
       "symbol": "WRBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/wrbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/wrbtc.png"
     },
     {
       "chainId": 30,
@@ -74,7 +74,7 @@
       "name": "RSK Swap LP RIF/RBTC",
       "symbol": "🦄RBTC:RIF",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rif-rbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rif-rbtc.png"
     },
     {
       "chainId": 30,
@@ -82,7 +82,7 @@
       "name": "RSK Swap LP RIF/DOC",
       "symbol": "🦄RIF:DOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rif-doc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rif-doc.png"
     },
     {
       "chainId": 30,
@@ -90,7 +90,7 @@
       "name": "RSK Swap LP BPRO/DOC",
       "symbol": "🦄BPRO:DOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/bpro-doc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/bpro-doc.png"
     },
     {
       "chainId": 30,
@@ -98,7 +98,7 @@
       "name": "RSK Swap LP RDOC/DOC",
       "symbol": "🦄RDOC:DOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rdoc-doc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rdoc-doc.png"
     },
     {
       "chainId": 30,
@@ -106,7 +106,7 @@
       "name": "RSK Swap LP rDAI/DOC",
       "symbol": "🦄DAI:DOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rdai-doc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rdai-doc.png"
     },
     {
       "chainId": 30,
@@ -114,7 +114,7 @@
       "name": "RSK Swap LP rDAI/RBTC",
       "symbol": "🦄rDAI:RBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rdai-rbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rdai-rbtc.png"
     },
     {
       "chainId": 30,
@@ -122,7 +122,7 @@
       "name": "RSK Swap LP RIF/rDAI",
       "symbol": "🦄RIF:rDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rif-rdai.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rif-rdai.png"
     },
     {
       "chainId": 30,
@@ -130,7 +130,7 @@
       "name": "Flixxo on RSK",
       "symbol": "rFLIXX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/flixx.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/flixx.png"
     },
     {
       "chainId": 30,
@@ -138,7 +138,7 @@
       "name": "ChainLink Token on RSK",
       "symbol": "rLINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/link.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/link.png"
     },
     {
       "chainId": 30,
@@ -146,7 +146,7 @@
       "name": "USD Coin on RSK",
       "symbol": "rUSDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/usdc.png"
     },
     {
       "chainId": 30,
@@ -154,7 +154,7 @@
       "name": "Tether USD on RSK",
       "symbol": "rUSDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/usdt.png"
     },
     {
       "chainId": 30,
@@ -162,7 +162,7 @@
       "name": "RedFOX Labs on RSK",
       "symbol": "rRFOX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/rfox.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/rfox.png"
     },
     {
       "chainId": 30,
@@ -170,7 +170,7 @@
       "name": "rLending USDT",
       "symbol": "crUSDT",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/crusdt.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/crusdt.png"
     },
     {
       "chainId": 30,
@@ -178,7 +178,7 @@
       "name": "rLending RIF",
       "symbol": "cRIF",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/crif.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/crif.png"
     },
     {
       "chainId": 30,
@@ -186,7 +186,7 @@
       "name": "rLending RBTC",
       "symbol": "cRBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/crbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/crbtc.png"
     },
     {
       "chainId": 30,
@@ -194,7 +194,7 @@
       "name": "Bundles Finance on RSK",
       "symbol": "rBUND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/bund.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/bund.png"
     },
     {
       "chainId": 30,
@@ -202,7 +202,7 @@
       "name": "AMLT Coinfirm on RSK",
       "symbol": "rAMLT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/amlt.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/amlt.png"
     },
     {
       "chainId": 30,
@@ -210,7 +210,7 @@
       "name": "Sovryn Token",
       "symbol": "SOV",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/sov.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/sov.png"
     },
     {
       "chainId": 30,
@@ -218,7 +218,7 @@
       "name": "Money on Chain Governance Token",
       "symbol": "MOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/moc.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/moc.png"
     },
     {
       "chainId": 30,
@@ -226,7 +226,7 @@
       "name": "Universal Basic Income on RSK",
       "symbol": "rUBI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/ubi.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/ubi.png"
     },
     {
       "chainId": 30,
@@ -234,7 +234,7 @@
       "name": "Pesos Argentinos PagoLinea",
       "symbol": "ARSCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/arscb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/arscb.png"
     },
     {
       "chainId": 30,
@@ -242,7 +242,7 @@
       "name": "Dólar Americano PagoLinea",
       "symbol": "USDCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/usdcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/usdcb.png"
     },
     {
       "chainId": 30,
@@ -250,7 +250,7 @@
       "name": "Bolívares PagoLinea",
       "symbol": "VESCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/vescb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/vescb.png"
     },
     {
       "chainId": 30,
@@ -258,7 +258,7 @@
       "name": "Pesos Colombianos PagoLinea",
       "symbol": "COPCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/copcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/copcb.png"
     },
     {
       "chainId": 30,
@@ -266,7 +266,7 @@
       "name": "Real Brasileño PagoLinea",
       "symbol": "BRLCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/brlcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/brlcb.png"
     },
     {
       "chainId": 30,
@@ -274,7 +274,7 @@
       "name": "Euro PagoLinea",
       "symbol": "EURCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/eurcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/eurcb.png"
     },
     {
       "chainId": 30,
@@ -282,7 +282,7 @@
       "name": "Pesos Panameños PagoLinea",
       "symbol": "PABCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/pabcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/pabcb.png"
     },
     {
       "chainId": 30,
@@ -290,7 +290,7 @@
       "name": "Guaranies Paraguayos PagoLinea",
       "symbol": "PYGCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/pygcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/pygcb.png"
     },
     {
       "chainId": 30,
@@ -298,7 +298,7 @@
       "name": "Sol Peruano PagoLinea",
       "symbol": "PENCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/pencb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/pencb.png"
     },
     {
       "chainId": 30,
@@ -306,7 +306,7 @@
       "name": "Yuan Chino PagoLinea",
       "symbol": "CNYCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/cnycb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/cnycb.png"
     },
     {
       "chainId": 30,
@@ -314,7 +314,7 @@
       "name": "Pesos Mexicanos PagoLinea",
       "symbol": "MXNCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/mxncb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/mxncb.png"
     },
     {
       "chainId": 30,
@@ -322,7 +322,7 @@
       "name": "Pesos Bolivianos PagoLinea",
       "symbol": "BOBCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/bobcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/bobcb.png"
     },
     {
       "chainId": 30,
@@ -330,7 +330,7 @@
       "name": "Rupia Indonesia PagoLinea",
       "symbol": "IDRCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/idrcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/idrcb.png"
     },
     {
       "chainId": 30,
@@ -338,7 +338,7 @@
       "name": "Peso Uruguayo PagoLinea",
       "symbol": "UYUCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/uyucb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/uyucb.png"
     },
     {
       "chainId": 30,
@@ -346,7 +346,7 @@
       "name": "Bitcoin PagoLinea",
       "symbol": "BTCCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/btccb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/btccb.png"
     },
     {
       "chainId": 30,
@@ -354,7 +354,7 @@
       "name": "Ether PagoLinea",
       "symbol": "ETHCB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/ethcb.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/ethcb.png"
     },
     {
       "chainId": 30,
@@ -362,7 +362,7 @@
       "name": "Brazilian Digital Token",
       "symbol": "BRZ",
       "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/brz.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/brz.png"
     },
     {
       "chainId": 30,
@@ -370,7 +370,7 @@
       "name": "XUSD Babelfish stablecoin",
       "symbol": "XUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/xusd.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/xusd.png"
     },
     {
       "chainId": 30,
@@ -378,7 +378,7 @@
       "name": "Babelfish",
       "symbol": "FISH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enkryptcom/dynamic-data/main/assets/rsk/fish.png"
+      "logoURI": "https://raw.githubusercontent.com/yetichain/dynamic-data/main/assets/rsk/fish.png"
     },
     {
       "chainId": 30,
