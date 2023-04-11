@@ -11,7 +11,7 @@
     "link": "https://www.portalbridge.com/",
     "description": "Cross chain token and NFT transfers",
     "isFavorites": false,
-    "image": "https://raw.githubusercontent.com/yetichain/enKrypt/ed5664e9297d32937d410dfecabec8b24d41394c/packages/extension/src/libs/dapp-list/assets/portal.svg"
+    "image": "https://raw.githubusercontent.com/yetichain/wallet-extension/ed5664e9297d32937d410dfecabec8b24d41394c/packages/extension/src/libs/dapp-list/assets/portal.svg"
   },
   {
     "title": "Polkadot.js",
